@@ -1,0 +1,17 @@
+.carousel-item {
+    height: 70vh;
+    /* padding-top: 50px; */
+  }
+  
+  .item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+     
+  }
+
+
+  .carouselImg{
+      height: 70vh;
+      width: 100%;
+  }

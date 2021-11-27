@@ -1,0 +1,44 @@
+.about-info{
+    align-items: center;
+}
+.About{
+    width: 100%;
+    background-color: #E5E7E9 ;
+    align-items: center;
+  }
+
+  .Work{
+    background-color: #e9dada;;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .h2{
+    align-items: center;
+  }
+
+  .icon{
+    width:30%;
+    height:20vh;
+    font-size: 200px;
+    cursor:pointer;
+    
+  }
+  .icon:hover{
+    color:#F25278;
+    
+  }
+
+  .home-about{
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 40px;
+    padding-top: 20px;
+  }
+
+.team-contact-info{
+  padding-top: 10px;
+  font-size: 20px;
+}

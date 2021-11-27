@@ -1,0 +1,9 @@
+.searchForm{
+    display: flex;
+    margin-top: 10px;
+}
+
+.headerColor{
+    background-color: #0C4876;
+    color: white
+}

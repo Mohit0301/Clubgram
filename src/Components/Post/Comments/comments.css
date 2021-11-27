@@ -1,0 +1,38 @@
+.commentTop{
+    padding: 10px;
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.commentBottom{
+    font-size: 17px;
+    padding: 10px;
+
+}
+
+.enterComment{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.textBox{
+    width: 95%;
+    
+}
+
+.commentButton{
+    background-color:rgb(46, 112, 199);
+    color: white;
+    border-radius: 10px;
+   
+    border:none;
+    height: 40px;
+    margin-top: 5px;
+}
+
+.commentWrapper{
+    display:flex;
+    justify-content: flex-start;
+   
+}
