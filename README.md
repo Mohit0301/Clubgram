@@ -26,12 +26,4 @@ To run the web socket
 
 
 
-Login credentials:
-Tester user (student view) : gmail and clubgram credentials : emailId: testeruser54@gmail.com
-                                                              password:tester_user123
-                                                              
-Drishtant (club coordinator view) : gmail and clubgram credentials : emailId: drishtant2021@gmail.com
-                                                                     password: drishtant123
-                                                                     
-Aaroha (club coordinator view) : gmail and clubgram credentials : emailId: aarohaa2021@gmail.com
-                                                                     password: aaroha123
+
