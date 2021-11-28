@@ -1,3 +1,9 @@
+### CLUBGRAM
+Clubgram is a web app that mainly helps college students keep up with their co-curricular activities and also stay in touch with their peers. Ever since the pandemic started the news of the events organized by college clubs travels through apps like whatsapp and it is quite easy for important messages like these to get lost among various other messages. Hence clubgram provides a platform that bundles all the information related to events and delivers it to students. It also helps students who have started their first years in the online mode to easily find seniors and connect with them.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
