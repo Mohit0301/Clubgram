@@ -19,8 +19,7 @@ nodemon server`
 
 To run the backend
 
-### `
-cd socket
+### `cd socket
 npm start`
 
 To run the web socket
