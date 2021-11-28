@@ -25,3 +25,4 @@ npm start`
 To run the web socket
 
 ### Please check supporting docs for login credentials
+### Database is hosted on mongodb atlas 
